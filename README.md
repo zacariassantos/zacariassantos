@@ -1,6 +1,6 @@
 - Hi, I’m @zacariassantos
 - student of the software engineering course - by Unicesumar 2020 - 2024.
-- currently studying language, C++
+- currently studying language C
 <div align="center">
   <a href="https://github.com/zacariassantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zacariassantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
